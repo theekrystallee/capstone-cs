@@ -1,0 +1,2 @@
+include appmode/appmode.html
+include appmode/static/main.js

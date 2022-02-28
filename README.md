@@ -13,10 +13,10 @@ Below are the steps to access the web application. Please follow these steps lis
 5.	Open terminal and type “cd” to change directory then type “cd desktop” 
 6.	In terminal type “mkdir capstone”
 7.	Navigate to the cloned directory named “capstone” and type “git clone https://github.com/theekrystallee/capstone-cs “
-8.	In the “capstone” local directory, run the following commands to create a virtual environment and install the dependencies to be able to start the application: <br> <br>
+8.	In the “capstone-cs” cloned directory, run the following commands to create a virtual environment and install the dependencies to be able to start the application: <br> <br>
     a.	python3 -m venv venv <br>
     b.	cd <br>
-    c.	cd desktop/capstone <br>
+    c.	cd desktop/capstone/capstone-cs <br>
     d.	source venv/bin/activate <br>
     e.	pip install -r requirements.txt <br>
     f.	pip install appmode <br>

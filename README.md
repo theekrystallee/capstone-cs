@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/theekrystallee/capstone-cs/main)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/theekrystallee/capstone-cs/HEAD)
+
 
 Below are the steps to access the web application. Please follow these steps listed below to access the web application.
 1.	Ensure the browser and computer system is current and updated.
